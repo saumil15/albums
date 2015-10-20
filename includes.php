@@ -17,8 +17,8 @@
 	require_once('libs/Facebook/FacebookAuthorizationException.php' );
 
 	
-	$fb_app_id = '1511902765792173'; // Goto your Fb app->settings
-	$fb_secret_id = 'bc7487d0135acae6f0493dd6e2d3cc37'; // Goto your Fb app->settings
+	$fb_app_id = 'use new app id here'; // Goto your Fb app->settings
+	$fb_secret_id = 'use your personal secret id here; // Goto your Fb app->settings
 
 	//fb_login_url is same url which is added in facebook app->settings.
 	$fb_login_url = 'http://localhost/albums/index.php'; 
